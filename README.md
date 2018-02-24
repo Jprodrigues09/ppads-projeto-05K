@@ -5,5 +5,7 @@
 ## Integrantes do grupo:
 
 João Pedro Rodrigues dos Santos
+
 Paulo Francisco Chen
+
 Tiago Angi Luiz
